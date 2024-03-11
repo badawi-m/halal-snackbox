@@ -1,0 +1,47 @@
+pin 12 - down
+pin 11 - left
+pin 10 - right
+pin 9 - up
+
+
+Gateron low-profile switches:
+
+Gateron low-prof and mx low-prof footprint not compatible
+
+Get footprint from repo: https://github.com/siderakb/key-switches.pretty/blob/main/README.md
+
+Excluding hotswap socket lower cost
+
+
+Production Cost:
+
+110/AUD$39 + AUD$13 shipping gateron low-prof switch -> ~AUD$4/board + AUD$2.6 shipping/board = $6.6/board
+Link: https://keychron.com.au/products/low-profile-gateron-mechanical-switch-set?variant=43432243232935
+
+(Nuphy same price and shipping -> https://nuphy.com.au/products/gateron-low-profile-2-0-switches)
+
+
+70/AUD$15 gateron low-prof hot swap socket -> $3 per board shipping free
+Link: https://www.amazon.com.au/YMDK-Gateron-Profile-Mechanical-Keyboard/dp/B0CJ2T4TQB?th=1
+
+5/AUD$34 + AUD$8 shipping  RP2040-Zero board ->AUD$8.40/board
+Link: https://core-electronics.com.au/rp2040-zero-a-pico-like-mcu-board-based-on-raspberry-pi-mcu-rp2040-mini-ver-1.html
+
+5/AUD$20.66 + AUD$43.75 shipping PCB Board -> AUD$13/board
+Link: JLCPCB
+
+Gary's pints: 20 bucks more cheaper on happy hour
+
+
+Total Cost: A$173.41 (not including case, screws, button, solder)
+Cost/board: A$34.7/board
+
+Things sourced from UCC: 3D printing case + button, screws, solder, soldering iron, etc
+
+ 
+
+
+
+
+
+ 
