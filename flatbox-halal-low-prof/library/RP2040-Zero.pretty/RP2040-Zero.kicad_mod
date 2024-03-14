@@ -368,4 +368,15 @@
 			(xyz 0 0 0)
 		)
 	)
+	(model "${KIPRJMOD}/library/RP2040-Zero.pretty/RP2040_Zero.stp"
+		(offset
+			(xyz -9 -12 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
