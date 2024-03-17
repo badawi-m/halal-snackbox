@@ -357,19 +357,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "98d5e0f4-efdf-4a2a-b0b0-4483480e7611")
 	)
-	(model "${KIPRJMOD}/RP2040-Zero/RP2040_Zero.stp"
-		(hide yes)
-		(offset
-			(xyz -9 -11.85 1)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${KIPRJMOD}/library/RP2040-Zero.pretty/RP2040_Zero.stp"
+	(model "${KIPRJMOD}/halalsnackbox-libraries/halalsnackbox-3dmodels/RP2040_Zero.stp"
 		(offset
 			(xyz -9 -12 1)
 		)

@@ -328,9 +328,9 @@
 		(remove_unused_layers no)
 		(uuid "140ea311-4c70-4ff0-a6b6-cb6845a5ed3b")
 	)
-	(model "/home/azri/Documents/halal-snackbox/halalsnackbox-libraries/halalsnackbox-3dmodels/SWT_PUSH_6mm_H9.5mm_ACT5.9mm.stp"
+	(model "${KIPRJMOD}/halalsnackbox-libraries/halalsnackbox-3dmodels/SWT_PUSH_6MM_H9.4.stp"
 		(offset
-			(xyz 3.3 -2.3 9.5)
+			(xyz 3.3 -2.3 13)
 		)
 		(scale
 			(xyz 1 1 1)

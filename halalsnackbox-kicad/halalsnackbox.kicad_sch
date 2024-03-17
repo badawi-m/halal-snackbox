@@ -1649,7 +1649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm"
+		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm_H9.5mm"
 			(at 45.72 60.96 0)
 			(effects
 				(font
@@ -1716,7 +1716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm"
+		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm_H9.5mm"
 			(at 63.5 60.96 0)
 			(effects
 				(font
@@ -1783,7 +1783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm"
+		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm_H9.5mm"
 			(at 81.28 60.96 0)
 			(effects
 				(font
@@ -1850,7 +1850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm"
+		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm_H9.5mm"
 			(at 99.06 60.96 0)
 			(effects
 				(font
@@ -1917,7 +1917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm"
+		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm_H9.5mm"
 			(at 116.84 60.96 0)
 			(effects
 				(font
@@ -1984,7 +1984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm"
+		(property "Footprint" "halalsnackbox-footprints:SW_PUSH_6mm_H9.5mm"
 			(at 134.62 60.96 0)
 			(effects
 				(font
@@ -4094,7 +4094,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:MountingHole_6.4mm_M6"
+		(property "Footprint" "MountingHole:MountingHole_6.4mm_M6"
 			(at 162.56 123.19 0)
 			(effects
 				(font
@@ -4488,7 +4488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:MountingHole_6.4mm_M6"
+		(property "Footprint" "MountingHole:MountingHole_6.4mm_M6"
 			(at 162.56 128.27 0)
 			(effects
 				(font
@@ -4552,7 +4552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:MountingHole_6.4mm_M6"
+		(property "Footprint" "MountingHole:MountingHole_6.4mm_M6"
 			(at 162.56 118.11 0)
 			(effects
 				(font
@@ -4683,7 +4683,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "halalsnackbox-footprints:MountingHole_6.4mm_M6"
+		(property "Footprint" "MountingHole:MountingHole_6.4mm_M6"
 			(at 162.56 133.35 0)
 			(effects
 				(font
