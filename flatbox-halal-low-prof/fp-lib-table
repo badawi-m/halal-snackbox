@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/library/key-switches.pretty")(options "")(descr ""))
-  (lib (name "RP2040-Zero")(type "KiCad")(uri "${KIPRJMOD}/library/RP2040-Zero.pretty")(options "")(descr ""))
-)
