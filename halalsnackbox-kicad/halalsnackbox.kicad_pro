@@ -426,11 +426,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "halalsnackbox-footprints"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "flatbox-halal-low-prof.kicad_pro",
+    "filename": "halalsnackbox.kicad_pro",
     "version": 1
   },
   "net_settings": {

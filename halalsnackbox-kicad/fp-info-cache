@@ -1,4 +1,4 @@
-23200227057121434
+23207069133629068
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94743,6 +94743,34 @@ Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.
 Varistor VF
 0
 2
+2
+halalsnackbox-footprints
+MountingHole_6.4mm_M6
+Mounting Hole 6.4mm, no annular, M6
+mounting hole 6.4mm no annular m6
+0
+0
+0
+halalsnackbox-footprints
+RP2040-Zero
+
+
+0
+23
+23
+halalsnackbox-footprints
+SW_Gateron_LowProfile_HotSwap_THT
+Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
+switch, low_profile, hot_swap
+0
+4
+2
+halalsnackbox-footprints
+SW_PUSH_6mm_H9.5mm
+Generic 6mm SW tactile push button
+tact sw push 6mm
+0
+4
 2
 key-switches
 SW_Gateron_LowProfile_HotSwap_PTH

@@ -1,4 +1,4 @@
-(footprint "SW_PUSH_6mm"
+(footprint "SW_PUSH_6mm_H9.5mm"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "SW_PUSH_6mm"
+	(property "Value" "SW_PUSH_6mm_H9.5mm"
 		(at 3.75 6.7 0)
 		(layer "F.Fab")
 		(uuid "5a601e4b-56c2-40d9-8b05-295fe984fd71")
@@ -328,15 +328,15 @@
 		(remove_unused_layers no)
 		(uuid "140ea311-4c70-4ff0-a6b6-cb6845a5ed3b")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.wrl"
+	(model "/home/azri/Documents/halal-snackbox/halalsnackbox-libraries/halalsnackbox-3dmodels/SWT_PUSH_6mm_H9.5mm_ACT5.9mm.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz 3.3 -2.3 9.5)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 0 0 -90)
 		)
 	)
 )
